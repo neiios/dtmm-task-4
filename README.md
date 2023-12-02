@@ -18,4 +18,3 @@ python main.py
 
 # when using vscode be sure to select the poetry environment as the python interpreter
 ```
-
