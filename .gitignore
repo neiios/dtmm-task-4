@@ -1,3 +1,5 @@
 *.csv
 *.tex
 !dataset.csv
+.ipynb_checkpoints
+.idea
